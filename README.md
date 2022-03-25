@@ -1,5 +1,6 @@
 # letter-boxed
 My program that uses recursive-backtracking to solve the New York Times puzzle "Letter Boxed"
+
 https://www.nytimes.com/puzzles/letter-boxed
 
 ## Building from source
